@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Thanks to https://coolors.co */
+  --color-raisin-black: #221d23;
+  --color-tawny: #cc4e00;
+  --color-plum: #834d93;
+  --color-rose-quartz: #bcb1be;
+  --color-pumpkin: #ff8133;
+  --color-african-violet: #aa79b9;
+}

@@ -1,2 +1,3 @@
 # ozabalaferrera.github.io
-Repository for my blog on blog.ozf.dev.
+
+Repository for my website, <https://ozf.dev>.

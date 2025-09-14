@@ -1,0 +1,52 @@
+<h1>Home</h1>
+<br />
+<p>A blog for the few of my projects and musing worthy of sharing.</p>
+<br />
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras cursus lectus sodales ipsum finibus,
+  a pretium arcu faucibus. Fusce id eros nunc. Nunc sodales, felis sagittis rhoncus ultrices, enim
+  justo posuere urna, a vulputate purus elit sit amet tellus. Nam ligula odio, ornare sed nisl at,
+  aliquet dapibus leo. Aenean hendrerit justo sed arcu tincidunt consequat eget ut lorem. In
+  viverra, neque ut consectetur commodo, libero dui pulvinar est, eu dictum massa nunc tristique
+  sem. Quisque consequat turpis est, efficitur pulvinar libero suscipit at.
+</p>
+<br />
+<p>
+  Vestibulum et metus sed odio auctor pharetra vitae porta nulla. Ut maximus rhoncus ante posuere
+  tristique. Pellentesque gravida erat ac neque ultrices ultricies. Vivamus at nunc lacinia, dapibus
+  ex id, facilisis mauris. Vivamus non tincidunt sapien. Donec lobortis gravida nibh, in ornare orci
+  imperdiet non. Integer ipsum urna, accumsan eu imperdiet in, dignissim nec quam.
+</p>
+<br />
+<p>
+  In maximus tortor non eros faucibus accumsan. Sed id lectus sit amet metus malesuada porta. Nullam
+  in diam volutpat, volutpat sem eget, mollis urna. Vestibulum sodales egestas augue in luctus.
+  Nulla neque felis, mattis in laoreet non, malesuada quis turpis. Praesent eu ex vulputate tellus
+  rhoncus dictum. Fusce id finibus dolor. Quisque consectetur mi nec neque lacinia, a elementum diam
+  bibendum. Aenean vel bibendum lorem. Nullam eu tellus placerat, ultrices arcu sit amet, aliquam
+  tortor. Morbi porttitor auctor lorem nec feugiat. Suspendisse potenti. Quisque et hendrerit arcu,
+  ac egestas lacus. Pellentesque at felis finibus, pulvinar metus sit amet, tempor quam. Duis
+  efficitur neque in magna malesuada, eu dignissim ex suscipit.
+</p>
+<br />
+<p>
+  Vestibulum id gravida mauris. Nullam turpis ipsum, convallis sed tempor nec, aliquam vitae leo.
+  Etiam cursus ligula a tellus posuere, non volutpat erat aliquet. Vestibulum laoreet in orci a
+  consectetur. Nullam tincidunt felis diam, eu ultricies odio mollis sed. In viverra dolor sed
+  lectus posuere, viverra tincidunt nisi suscipit. Suspendisse tristique lacus et sapien faucibus,
+  ac elementum dui sodales. Curabitur eget ante in leo posuere vehicula. Etiam metus nulla, dictum
+  suscipit scelerisque vel, vehicula sit amet massa. Nunc commodo vestibulum magna, gravida
+  tincidunt ipsum egestas sit amet. Morbi congue erat in nunc tristique congue. Curabitur efficitur
+  dui velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+  egestas. Nam mi arcu, rhoncus in tellus et, pulvinar feugiat diam. Vivamus mattis in dui quis
+  laoreet.
+</p>
+<br />
+<p>
+  Quisque quis blandit nulla. Curabitur euismod euismod sapien vel rutrum. Curabitur volutpat lectus
+  aliquet convallis malesuada. Duis vel pretium justo, euismod eleifend metus. Pellentesque
+  consequat justo id elit mattis, id mattis nunc sollicitudin. Sed pellentesque porta lectus. Nunc
+  venenatis sapien viverra lacus commodo, condimentum aliquet elit bibendum. Etiam blandit libero at
+  ante lobortis suscipit. Pellentesque iaculis diam quis dui dictum elementum.
+</p>
+<br />
